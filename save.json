@@ -1,0 +1,11 @@
+{
+    "app_name":"AI Generation Tool",
+    "key":"",
+    "pixabay_key":"",
+    "Theme Prompt":"Write a [word_count] word simple text that will [style] [theme]",
+    "Object Prompt":"Write a [word_count] word simple text that will [style] [object]",
+    "Story Prompt":"Write a [word_count] words [type] text in an [style] style that has the following itinery with each step as a heading: [object_list].\n Each step MUST contain exactly one tip under the story. Include a list of final recommendations after the story",
+    "Theme Style":"inspire to",
+    "Objects Style":"describe",
+    "Images Modifier":"Sigma 85mm f1/4, studio-lighting"
+}
